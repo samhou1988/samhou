@@ -4,6 +4,7 @@
   "description": "cli",
   "main": "index.js",
   "bin": {
+    "samhou": "index.js",
     "sam": "index.js"
   },
   "scripts": {
