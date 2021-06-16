@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/samhou1988/sam#readme",
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
