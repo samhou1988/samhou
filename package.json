@@ -1,6 +1,6 @@
 {
   "name": "samhou",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli",
   "main": "index.js",
   "bin": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/samhou1988/sam/issues"
   },
-  "homepage": "https://github.com/samhou1988/sam#readme"
+  "homepage": "https://github.com/samhou1988/sam#readme",
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
 }
